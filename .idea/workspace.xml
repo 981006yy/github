@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0240cf17-b59f-48ff-9164-58d20e55c304" name="Default Changelist" comment="" />
+    <list default="true" id="0240cf17-b59f-48ff-9164-58d20e55c304" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aichong_config_server_1299/src/main/java/cn/itsource/aichong/ConfigServerApplication_1299.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aichong_config_server_1299/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aichong_basic_parent/aichong_basic_parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aichong_config_server_1299/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aichong_config_server_1299/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aichong_eureka_server_7001/aichong_eureka_server_7001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aichong_plat_parent/aichong_plat_interface/aichong_plat_interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aichong_plat_parent/aichong_plat_parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/resources/application.yml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/aichong_basic_parent/target/" />
@@ -59,14 +73,48 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="94191334">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="xml" value="2" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="2" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5" />
+          <entry key="yml" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="YAML" value="26" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aichong_eureka_server_7001/src/main/java/cn/itsource/aichong/eureka/EurekaServerApplication_7001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="132">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="e#376#377#0" expanded="true" />
                 <element signature="e#449#450#0" expanded="true" />
@@ -85,19 +133,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/java/cn/itsource/aichong/swagger/Swagger2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/java/cn/itsource/aichong/controller/EmployeeController.java">
+        <entry file="file://$PROJECT_DIR$/aichong_config_server_1299/src/main/java/cn/itsource/aichong/ConfigServerApplication_1299.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,22 +145,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aichong_config_server_1299/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1144">
-              <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+            <state relative-caret-position="174">
+              <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aichong_zuul_server_9527/src/main/java/cn/itsource/aichong/swagger/DocumentationConfig.java">
+        <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="176">
+              <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aichong_config_server_1299/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -129,20 +183,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aichong_zuul_server_9527/src/main/java/cn/itsource/aichong/ZuulApplication_9527.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="198">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aichong_zuul_server_9527/src/main/java/cn/itsource/aichong/swagger/SwaggerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -176,6 +221,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -192,6 +238,10 @@
         <option value="$PROJECT_DIR$/aichong_zuul_server_9527/src/main/java/cn/itsource/aichong/swagger/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/aichong_zuul_server_9527/src/main/java/cn/itsource/aichong/swagger/DocumentationConfig.java" />
         <option value="$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/java/cn/itsource/aichong/swagger/Swagger2.java" />
+        <option value="$PROJECT_DIR$/aichong_config_server_1299/pom.xml" />
+        <option value="$PROJECT_DIR$/aichong_config_server_1299/src/main/java/cn/itsource/aigou/ConfigServerApplication_1299.java" />
+        <option value="$PROJECT_DIR$/aichong_config_server_1299/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/pom.xml" />
       </list>
     </option>
   </component>
@@ -215,30 +265,298 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="787" />
-    <option name="y" value="16" />
+    <option name="x" value="412" />
+    <option name="y" value="76" />
     <option name="width" value="1570" />
     <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="aichong_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aichong_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_config_server_1299" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_config_server_1299" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_config_server_1299" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_config_server_1299" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_config_server_1299" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_config_server_1299" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_config_server_1299" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_config_server_1299" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_sprngcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_sprngcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="aichong" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +566,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551062457369" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551074994051" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/aichong_config_server_1299/src/main/java/cn/itsource" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -265,6 +584,8 @@
       <recent name="cn.itsource.aichong.eureka" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\github_sprngcloud\aichong_plat_parent\aichong_plat_service_8001\src\main\resources" />
+      <recent name="D:\IDEA\github_sprngcloud\aichong_config_server_1299" />
       <recent name="D:\IDEA\aichong_parent\aichong_zuul_server_9527\src\main\java\cn\itsource\aichong\swagger" />
       <recent name="D:\IDEA\aichong_parent\aichong_zuul_server_9527\src\main\resources" />
       <recent name="D:\IDEA\aichong_parent\aichong_eureka_server_7001\src\main\resources" />
@@ -282,7 +603,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ZuulApplication_9527">
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication_1299">
+    <configuration name="ConfigServerApplication_1299" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="aichong_config_server_1299" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itsource.aichong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.aichong.ConfigServerApplication_1299" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaServerApplication_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="aichong_eureka_server_7001" />
       <extension name="coverage">
@@ -326,11 +660,13 @@
       <item itemvalue="Spring Boot.EurekaServerApplication_7001" />
       <item itemvalue="Spring Boot.ZuulApplication_9527" />
       <item itemvalue="Spring Boot.PlatServiceApplication_8001" />
+      <item itemvalue="Spring Boot.ConfigServerApplication_1299" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ZuulApplication_9527" />
+        <item itemvalue="Spring Boot.ConfigServerApplication_1299" />
         <item itemvalue="Spring Boot.PlatServiceApplication_8001" />
+        <item itemvalue="Spring Boot.ZuulApplication_9527" />
         <item itemvalue="Spring Boot.EurekaServerApplication_7001" />
       </list>
     </recent_temporary>
@@ -348,17 +684,17 @@
       <workItem from="1550897191894" duration="7079000" />
       <workItem from="1550970697211" duration="2678000" />
       <workItem from="1550977640732" duration="4672000" />
+      <workItem from="1551062858514" duration="3871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14429000" />
+    <option name="totallyTimeSpent" value="18300000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="596" y="70" width="1256" height="720" extended-state="0" />
-    <editor active="true" />
+    <frame x="330" y="61" width="1256" height="720" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20200334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -368,8 +704,8 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27891156" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29471892" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,10 +713,10 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3282313" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3270869" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5008347" side_tool="true" weight="0.27891156" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -402,9 +738,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aichong_config_server_1299/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/aichong_basic_parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -458,10 +791,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/java/cn/itsource/aichong/PlatServiceApplication_8001.java">
+    <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/java/cn/itsource/aichong/swagger/Swagger2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -475,27 +808,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aichong_zuul_server_9527/src/main/java/cn/itsource/aichong/swagger/DocumentationConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aichong_zuul_server_9527/src/main/java/cn/itsource/aichong/ZuulApplication_9527.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -523,21 +839,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/java/cn/itsource/aichong/swagger/Swagger2.java">
+    <entry file="file://$PROJECT_DIR$/aichong_config_server_1299/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="347">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aichong_eureka_server_7001/src/main/java/cn/itsource/aichong/eureka/EurekaServerApplication_7001.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="e#376#377#0" expanded="true" />
             <element signature="e#449#450#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/java/cn/itsource/aichong/PlatServiceApplication_8001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichong_zuul_server_9527/src/main/java/cn/itsource/aichong/ZuulApplication_9527.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichong_config_server_1299/src/main/java/cn/itsource/aichong/ConfigServerApplication_1299.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichong_config_server_1299/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichong_plat_parent/aichong_plat_service_8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
         </state>
       </provider>
     </entry>
